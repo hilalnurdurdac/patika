@@ -1,2 +1,3 @@
 # patika
-java ile ilgili içeriğinde işlediğimiz pratik ve ödev sorular
+java ile ilgili işlediğimiz pratik ve ödev soruları derledim
+
